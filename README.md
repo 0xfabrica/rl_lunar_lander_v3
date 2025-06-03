@@ -147,27 +147,3 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 **Repositorio**: [IntelliGrow/PPO-LunarLander-v3](https://huggingface.co/IntelliGrow/PPO-LunarLander-v3)  
 **Mensaje de Commit**: Subida de Algoritmo LunarLanderV3 by me
 ```
-
----
-library_name: stable-baselines3
-tags:
-- LunarLander-v3
-- deep-reinforcement-learning
-- reinforcement-learning
-- stable-baselines3
-model-index:
-- name: PPO
-  results:
-  - task:
-      type: reinforcement-learning
-      name: reinforcement-learning
-    dataset:
-      name: LunarLander-v3
-      type: LunarLander-v3
-    metrics:
-    - type: mean_reward
-      value: 280.77 +/- 18.31
-      name: mean_reward
-      verified: false
----
-
